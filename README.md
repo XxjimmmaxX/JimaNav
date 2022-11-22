@@ -1,2 +1,1 @@
-# JimaNav
-关于nav.jimmma.top的文件开源
+# JimaNav.github.io
